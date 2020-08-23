@@ -1,5 +1,6 @@
 # bookmyshow-system-design
 System Design for BookMyShow/Ticketing Application
+
 A movie ticket booking system provides its customers the ability to purchase theatre seats online. E-ticketing systems allow the customers to browse through movies currently being played and to book seats, anywhere anytime.
 
 
@@ -54,7 +55,11 @@ Here are a few observations about the data we are going to store:
 
 ![](assets/ticketflow.png)
 
-The locking of seat and how does it work:
+
+![](assets/design1.png)
+
+
+# Locking and unlocking of seats:
 
 ![](assets/ticketerror.png)
 
