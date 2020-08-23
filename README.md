@@ -15,7 +15,7 @@ Functional Requirements:
 
 - Search movies based upon place, theatre, show timing
 - Book ticket with seat selection.
-- Browse Movie information and moview review.
+- Browse Movie information and movie review.
 - Recommend movie
 
 
@@ -63,7 +63,7 @@ Here are a few observations about the data we are going to store:
 
 ![](assets/ticketerror.png)
 
-User 1 and user 2 both are trying to book the ticket:
+User 1 and user 2 both are trying to book the ticket for same show and same seat:
 
 Consider a prebooking table which stores data as follows:
 
